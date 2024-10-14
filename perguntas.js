@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Teclado',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual tecla ativa caracteres especiais?',
+    'A tecla shift'
 )
 
 criaCartao(
